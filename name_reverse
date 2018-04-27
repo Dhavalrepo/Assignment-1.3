@@ -1,0 +1,3 @@
+person = input('Enter your name: ')
+for i in range(-1,-len(person)-1,-1):
+    print (person[i],end=("")) 
